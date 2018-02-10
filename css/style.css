@@ -22,21 +22,20 @@ header{
 	display: flex;
 	justify-content: center;
 	background-color: #c2341c;
-	width: 22%;
+	width: 20%;
 	position: relative;
 }
 header img{
-	width: 300px;
-	height: 300px;
+	width: 60%;
 	position: absolute;
-	top: 20%
+	top: 20%;
 }
 header h1{
 	display: none;
 }
 header .links{
 	position: absolute;
-	bottom: 5px;
+	bottom: 7%;
 	display: inline-flex;
 }
 header a{
